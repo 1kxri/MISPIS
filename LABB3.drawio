@@ -1,28 +1,28 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36">
   <diagram name="Страница-1" id="moh4t4yhqe3b-hQcvw8K">
-    <mxGraphModel dx="-996" dy="783" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-1066" dy="742" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EHULUU1YT6027cHqqHgZ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Оформить заказ и получить оплату&lt;/span&gt;" vertex="1">
+        <mxCell id="EHULUU1YT6027cHqqHgZ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Оформление заказа&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="140" x="3525" y="257" as="geometry" />
         </mxCell>
-        <mxCell id="EHULUU1YT6027cHqqHgZ-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Проверить и заказать необходимые материалы&lt;/span&gt;" vertex="1">
+        <mxCell id="EHULUU1YT6027cHqqHgZ-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Закупка необходимых материалов&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="140" x="3725" y="257" as="geometry" />
         </mxCell>
-        <mxCell id="EHULUU1YT6027cHqqHgZ-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Обеспечить материалы для изготовления&lt;/span&gt;" vertex="1">
+        <mxCell id="EHULUU1YT6027cHqqHgZ-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Изготовление товара&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="140" x="3925" y="257" as="geometry" />
         </mxCell>
-        <mxCell id="EHULUU1YT6027cHqqHgZ-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Выполнить сборку заказа&lt;/span&gt;" vertex="1">
+        <mxCell id="EHULUU1YT6027cHqqHgZ-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Проверка товара на деффекты&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="140" x="4125" y="257" as="geometry" />
         </mxCell>
-        <mxCell id="EHULUU1YT6027cHqqHgZ-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Передать заказ в руки клиента&lt;/span&gt;" vertex="1">
+        <mxCell id="EHULUU1YT6027cHqqHgZ-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Передача и оплата заказа клиенту&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="140" x="4525" y="257" as="geometry" />
         </mxCell>
-        <mxCell id="EHULUU1YT6027cHqqHgZ-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Проверить соответствия заказа&lt;/span&gt;" vertex="1">
+        <mxCell id="EHULUU1YT6027cHqqHgZ-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Отгрузка и сортировка товара на склад&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="140" x="4325" y="257" as="geometry" />
         </mxCell>
-        <mxCell id="EHULUU1YT6027cHqqHgZ-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Производство и продажа цветочных композиций&lt;/span&gt;" vertex="1">
+        <mxCell id="EHULUU1YT6027cHqqHgZ-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Производство сувениров&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="140" x="4025" y="60" as="geometry" />
         </mxCell>
         <mxCell id="EHULUU1YT6027cHqqHgZ-18" edge="1" parent="1" source="EHULUU1YT6027cHqqHgZ-3" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="EHULUU1YT6027cHqqHgZ-17" value="">
@@ -78,9 +78,6 @@
         </mxCell>
         <mxCell id="EHULUU1YT6027cHqqHgZ-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Дополнительная упаковка букета для транспортировки&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Подготовка сопроводительных документов&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Планирование доставки&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Передача букета курьеру&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Контроль транспортировки&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Уведомление клиента о доставке&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Передача букета клиенту&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Проверка получения и удовлетворенности клиента&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Закрытие заказа в системе учета&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="455" width="168" x="4497" y="316" as="geometry" />
-        </mxCell>
-        <mxCell id="EHULUU1YT6027cHqqHgZ-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ОПЛАТИТЬ ПОСТАВЩИКУ&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="4228" y="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
