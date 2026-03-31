@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 YaBrowser/26.3.0.0 Safari/537.36">
   <diagram name="Страница-1" id="moh4t4yhqe3b-hQcvw8K">
-    <mxGraphModel dx="1608" dy="-95" grid="0" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1821" dy="29" grid="0" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,10 +267,10 @@
             <mxPoint x="460" y="1305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xwSWS2IlUYE8FsA7z3XB-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" value="Передача товара без деффекта" vertex="1">
+        <mxCell id="xwSWS2IlUYE8FsA7z3XB-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" value="Отгрузка товара на склад" vertex="1">
           <mxGeometry height="50" width="130" x="330" y="1170" as="geometry" />
         </mxCell>
-        <mxCell id="xwSWS2IlUYE8FsA7z3XB-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" value="Доработка товара" vertex="1">
+        <mxCell id="xwSWS2IlUYE8FsA7z3XB-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" value="Сортировка товара на складе" vertex="1">
           <mxGeometry height="50" width="130" x="330" y="1280" as="geometry" />
         </mxCell>
         <mxCell id="xwSWS2IlUYE8FsA7z3XB-35" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0.996;exitY=0.474;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
@@ -363,10 +363,10 @@
             <mxPoint x="120" y="1305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xwSWS2IlUYE8FsA7z3XB-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" value="Передача товара без деффекта" vertex="1">
+        <mxCell id="xwSWS2IlUYE8FsA7z3XB-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" value="Передача товара клиенту" vertex="1">
           <mxGeometry height="50" width="130" x="-10" y="1170" as="geometry" />
         </mxCell>
-        <mxCell id="xwSWS2IlUYE8FsA7z3XB-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" value="Доработка товара" vertex="1">
+        <mxCell id="xwSWS2IlUYE8FsA7z3XB-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" value="Оплата товара клиентом" vertex="1">
           <mxGeometry height="50" width="130" x="-10" y="1280" as="geometry" />
         </mxCell>
         <mxCell id="xwSWS2IlUYE8FsA7z3XB-54" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0.996;exitY=0.474;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
