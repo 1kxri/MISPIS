@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 YaBrowser/25.12.0.0 Safari/537.36">
   <diagram name="Страница-1" id="-GvMK8zYiI_XkMGy3ZgR">
-    <mxGraphModel dx="1395" dy="1629" grid="0" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="1505" grid="0" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -306,8 +306,8 @@
         </mxCell>
         <mxCell id="zCBqci1yJ9fzYp0YkD5Z-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=17;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="4473" y="-276" as="sourcePoint" />
-            <mxPoint x="4473" y="-376" as="targetPoint" />
+            <mxPoint x="4443" y="-276" as="sourcePoint" />
+            <mxPoint x="4443" y="-376" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zCBqci1yJ9fzYp0YkD5Z-6" connectable="0" parent="zCBqci1yJ9fzYp0YkD5Z-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=17;" value="&lt;font&gt;Админисртатор&amp;nbsp;&lt;/font&gt;" vertex="1">
@@ -400,7 +400,7 @@
             <mxPoint x="4416" y="338" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zCBqci1yJ9fzYp0YkD5Z-37" connectable="0" parent="zCBqci1yJ9fzYp0YkD5Z-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=17;" value="&lt;font&gt;Пользователь&lt;/font&gt;" vertex="1">
+        <mxCell id="zCBqci1yJ9fzYp0YkD5Z-37" connectable="0" parent="zCBqci1yJ9fzYp0YkD5Z-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=17;" value="&lt;font&gt;ИС&lt;/font&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0152" y="1" as="geometry">
             <mxPoint x="1" y="-3" as="offset" />
           </mxGeometry>
@@ -411,7 +411,7 @@
             <mxPoint x="4186" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zCBqci1yJ9fzYp0YkD5Z-39" connectable="0" parent="zCBqci1yJ9fzYp0YkD5Z-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=17;" value="&lt;font&gt;Администратор&lt;/font&gt;" vertex="1">
+        <mxCell id="zCBqci1yJ9fzYp0YkD5Z-39" connectable="0" parent="zCBqci1yJ9fzYp0YkD5Z-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=17;" value="&lt;font&gt;Пользователь&lt;/font&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0167" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -460,13 +460,13 @@
         </mxCell>
         <mxCell id="zCBqci1yJ9fzYp0YkD5Z-62" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=17;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="4581" y="-276" as="sourcePoint" />
-            <mxPoint x="4581" y="-376" as="targetPoint" />
+            <mxPoint x="4526" y="-276" as="sourcePoint" />
+            <mxPoint x="4526" y="-376" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zCBqci1yJ9fzYp0YkD5Z-63" connectable="0" parent="zCBqci1yJ9fzYp0YkD5Z-62" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=17;" value="&lt;font&gt;Пользователь&lt;/font&gt;" vertex="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-3" y="28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zCBqci1yJ9fzYp0YkD5Z-64" edge="1" parent="1" source="zCBqci1yJ9fzYp0YkD5Z-65" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=17;" value="">
@@ -482,6 +482,17 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="4572.75" y="-560" as="sourcePoint" />
             <mxPoint x="4578.75" y="-568" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oRjKkfgprzW7fwII8EG_-1" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=17;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="4601" y="-276" as="sourcePoint" />
+            <mxPoint x="4601" y="-376" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oRjKkfgprzW7fwII8EG_-2" connectable="0" parent="oRjKkfgprzW7fwII8EG_-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=17;" value="&lt;font&gt;ИС&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="38" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
