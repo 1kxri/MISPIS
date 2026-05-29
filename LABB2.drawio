@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 YaBrowser/26.3.0.0 Safari/537.36">
   <diagram name="Страница-1" id="moh4t4yhqe3b-hQcvw8K">
-    <mxGraphModel dx="3186" dy="-95" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3130" dy="-129" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1120,6 +1120,35 @@
         </mxCell>
         <mxCell id="ZTcrt8YjYVRVvdayOtQj-52" parent="1" style="text;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=17;" value="Информация о спортсмене" vertex="1">
           <mxGeometry height="20" width="130" x="887" y="2605" as="geometry" />
+        </mxCell>
+        <mxCell id="mmJz5GZSUeGWAqjeXfSY-9" edge="1" parent="1" source="mmJz5GZSUeGWAqjeXfSY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="mmJz5GZSUeGWAqjeXfSY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mmJz5GZSUeGWAqjeXfSY-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 17px;&quot;&gt;Модуль управления рекордами&lt;/span&gt;" vertex="1">
+          <mxGeometry height="77" width="156" x="481" y="3321" as="geometry" />
+        </mxCell>
+        <mxCell id="mmJz5GZSUeGWAqjeXfSY-8" edge="1" parent="1" source="mmJz5GZSUeGWAqjeXfSY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="mmJz5GZSUeGWAqjeXfSY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mmJz5GZSUeGWAqjeXfSY-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 17px;&quot;&gt;Модуль авторизации и регистраци&lt;/span&gt;" vertex="1">
+          <mxGeometry height="77" width="156" x="483" y="3180" as="geometry" />
+        </mxCell>
+        <mxCell id="mmJz5GZSUeGWAqjeXfSY-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 17px;&quot;&gt;Модуль доступа к БД&lt;/span&gt;" vertex="1">
+          <mxGeometry height="77" width="156" x="717" y="3257" as="geometry" />
+        </mxCell>
+        <mxCell id="mmJz5GZSUeGWAqjeXfSY-4" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="56.25" width="131" x="925" y="3270" as="geometry" />
+        </mxCell>
+        <mxCell id="mmJz5GZSUeGWAqjeXfSY-5" parent="mmJz5GZSUeGWAqjeXfSY-4" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=default;" value="" vertex="1">
+          <mxGeometry height="54" width="6" x="125" as="geometry" />
+        </mxCell>
+        <mxCell id="mmJz5GZSUeGWAqjeXfSY-6" parent="mmJz5GZSUeGWAqjeXfSY-4" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;БД&lt;/font&gt;" vertex="1">
+          <mxGeometry height="73" width="106" x="8" y="-16.75" as="geometry" />
+        </mxCell>
+        <mxCell id="mmJz5GZSUeGWAqjeXfSY-7" edge="1" parent="1" source="mmJz5GZSUeGWAqjeXfSY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.582;entryDx=0;entryDy=0;entryPerimeter=0;" target="mmJz5GZSUeGWAqjeXfSY-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="3303" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
