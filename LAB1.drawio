@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 YaBrowser/25.12.0.0 Safari/537.36">
   <diagram name="Страница-1" id="-GvMK8zYiI_XkMGy3ZgR">
-    <mxGraphModel dx="1318" dy="1583" grid="0" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="1629" grid="0" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -380,24 +380,19 @@
         </mxCell>
         <mxCell id="zCBqci1yJ9fzYp0YkD5Z-36" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=17;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="4417" y="532" as="sourcePoint" />
+            <mxPoint x="4416" y="503" as="sourcePoint" />
             <mxPoint x="4416" y="338" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zCBqci1yJ9fzYp0YkD5Z-37" connectable="0" parent="zCBqci1yJ9fzYp0YkD5Z-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=17;" value="&lt;font&gt;ИС&lt;/font&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0152" y="1" as="geometry">
-            <mxPoint x="16" y="84" as="offset" />
+            <mxPoint x="-215" y="100" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zCBqci1yJ9fzYp0YkD5Z-38" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=17;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="4186" y="393" as="sourcePoint" />
+            <mxPoint x="4186" y="532" as="sourcePoint" />
             <mxPoint x="4186" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zCBqci1yJ9fzYp0YkD5Z-39" connectable="0" parent="zCBqci1yJ9fzYp0YkD5Z-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=17;" value="&lt;font&gt;Пользователь&lt;/font&gt;" vertex="1">
-          <mxGeometry relative="1" x="0.0167" y="-1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zCBqci1yJ9fzYp0YkD5Z-40" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=17;" value="">
@@ -481,8 +476,19 @@
         </mxCell>
         <mxCell id="hE_eX5nn1d6p1yIOWkPX-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="4417" y="504" as="sourcePoint" />
+            <mxPoint x="4185" y="503" as="sourcePoint" />
             <mxPoint x="4660" y="504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QEDZcsho3dYnSgkr_ok3-1" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=17;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="4153" y="576" as="sourcePoint" />
+            <mxPoint x="4153" y="229" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QEDZcsho3dYnSgkr_ok3-2" connectable="0" parent="QEDZcsho3dYnSgkr_ok3-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=17;" value="&lt;font&gt;Пользователь&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0167" y="-1" as="geometry">
+            <mxPoint x="53" y="158" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
