@@ -1294,7 +1294,7 @@
             <mxPoint x="3115" y="3154.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lzMI-P1MnrTeLeOQjfpt-107" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=17;" value="&lt;div&gt;Тренер&lt;/div&gt;&lt;div&gt;Спортсмен&lt;/div&gt;&lt;div&gt;Менеджер&lt;/div&gt;&lt;div&gt;Организатор&lt;/div&gt;" vertex="1">
+        <mxCell id="lzMI-P1MnrTeLeOQjfpt-107" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=17;" value="&lt;div&gt;Пользователь&lt;/div&gt;&lt;div&gt;Тренер&lt;/div&gt;&lt;div&gt;Спортсмен&lt;/div&gt;" vertex="1">
           <mxGeometry height="92" width="92" x="2396" y="3230" as="geometry" />
         </mxCell>
       </root>
